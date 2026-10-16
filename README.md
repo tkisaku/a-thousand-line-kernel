@@ -1,0 +1,1 @@
+- [learn with this](https://operating-system-in-1000-lines.vercel.app/ja/)
